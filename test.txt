@@ -1,1 +1,2 @@
 adding new file to check how all things works before configuration of sonar with jenkins
+added pom file to github location
