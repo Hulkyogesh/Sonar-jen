@@ -1,1 +1,2 @@
 adding new file to check how all things works before configuration of sonar with jenkins
+adding new line to check how git pull will work
